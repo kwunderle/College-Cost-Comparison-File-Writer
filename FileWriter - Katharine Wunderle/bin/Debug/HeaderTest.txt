@@ -1,0 +1,1 @@
+CollegeName,State,Num1WayTrips,1WayDistance,AppFee,AnnualTuition,AnnualRoomBoard,1YearFuel,4YearTotalCost

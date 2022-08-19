@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison___Katharine_Wunderle.collegeCostComparison.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\bin\Debug\CollegeCostComparison - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\bin\Debug\CollegeCostComparison - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\bin\Debug\CollegeCostComparison - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 3\IntroCalcProblems - Katharine Wunderle\CollegeCostComparison - Katharine Wunderle\obj\Debug\CollegeCostComparison - Katharine Wunderle.pdb

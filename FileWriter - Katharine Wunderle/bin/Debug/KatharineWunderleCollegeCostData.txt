@@ -1,0 +1,3 @@
+CollegeName,State,Num1WayTrips,1WayDistance,AppFee,AnnualTuition,AnnualRoomBoard,1YearFuel,4YearTotalCost
+LCCC,OH,30,25,100,2500,0,75.00,10400.00
+CCC,OH,55,45,250,3000,0,247.50,13240.00

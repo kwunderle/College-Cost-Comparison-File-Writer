@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\bin\Debug\BYOMethodWithReturn - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\bin\Debug\BYOMethodWithReturn - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\bin\Debug\BYOMethodWithReturn - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\FileWriter - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\CollegeCostComparison___Katharine_Wunderle.BYOMethodWithReturn.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\BYOMethodWithReturn___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\FileWriter - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\FileWriter - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\BYOMethodWithReturn - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileWriter - Katharine Wunderle\obj\Debug\BYOMethodWithReturn - Katharine Wunderle.pdb
